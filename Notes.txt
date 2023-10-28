@@ -1,0 +1,44 @@
+Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more. Node.js is a back-end JavaScript runtime environment, runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser.
+
+Angular is a TypeScript-based, free and open-source single-page web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.
+
+Morgan is a popular HTTP logging library for Node. js.It is designed to be a simple and flexible tool for logging HTTP requests and responses in Node.js Middleware applications.
+
+Build a React Portfolio with TailwindCSS
+
+Learn how to add TailwindCSS to your React project and build a portfolio with Tailwind's grid layouts, typography,and responsive design.Tailwind CSS is a popular CSS framework,and React is one of the most popular JavaScript libraries.And Tailwind CSS and React are a great combo to use if you're building a frontend project.
+
+How to configure ESLint for a Node.Js Project
+When you work in a team or a slightly larger project its important to have a consistent style across all files. With this guide, you'll be able to set up auto linting focused on Node.Js projects using the AirBnB style guide.
+
+React A JavaScript library for building user interfaces
+
+React is a free and open-source front-end JavaScript library for building user interfaces based on UI components.It is maintained by Meta and a community of individual developers and companies.
+
+Vue.js - The Progressive JavaScript Framework
+
+Vue.js is an open-source model view viewmodel front end JavaScript framework for building user interfaces and single-page applications.Vue is a JavaScript framework for building user interfaces.It builds on top of standard HTML,CSS,and JavaScript and provides a declarative and component-based programming model that helps you efficiently develop user interfaces,be they simple or complex.It was created by Evan You, and is maintained by him and the rest of the active core team members.
+
+MongoDB
+
+MongoDB is a source-available cross-platform document-oriented database program.Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.MongoDB is developed by MongoDB Inc.and current versions are licensed under the Server Side Public License (SSPL) which is considered non-free by some organizations and distributions.MongoDB is a member of the MACH Alliance.Node.js is an open-source server environment.Node.js is cross-platform and runs on Windows Linux Unix and macOS.Node.js is a back-end JavaScript runtime environment.Node.js runs on the V8 JavaScript Engine and executes JavaScript code outside a web browser.
+
+How To Use DOTENV
+
+Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.Storing configuration in the environment separate from code is based on The Twelve-Factor App methodology.Node.js runs on the V8 JavaScript Engine and executes JavaScript code outside a web browser.
+
+cryptocurrency price tracker
+
+A cryptocurrency price tracker monitors the current value of different digital currencies and tokens. Many of these services provide historical data as well, allowing users to compare current prices against older values.
+
+cryptocurrency price tracker using API(Application Programming Interface)
+
+CoinGecko is a free-to-use API that provides access to data such as live pricing,trading volume, tickers,exchanges,and historical data.The API also provides non-market data such as images,development & social community statistics,events,global markets, and exchange status updates.
+
+Build fast,responsive sites with Bootstrap
+
+It is Powerful,extensible,and feature-packed frontend toolkit.It Build and customize with SASS(Syntactically Awesome Style Sheets),utilize prebuilt grid system and components,and bring projects to life with powerful JavaScript plugins.
+
+SASS
+
+The full form of SASS is Syntactically Awesome Style Sheets.SASS is a stylesheet language.It is a CSS extension and is fully compatible with all CSS versions.It saves time by reducing the CSS repetition.SASS is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets(CSS).SassScript is the scripting language itself.Sass consists of two syntaxes.The original syntax,called the indented syntax,uses a syntax similar to Haml.It uses indentation to separate code blocks and newline characters to separate rules.The newer syntax,SCSS(Sassy CSS),uses block formatting like that of CSS.It uses braces to denote code blocks and semicolons to separate rules within a block.The indented syntax and SCSS files are traditionally given the extensions .sass and .scss, respectively.
