@@ -28,3 +28,22 @@ exports.about = async(req,res)=>{
 
     res.render('about', locals);
 }
+
+exports.Features = async(req,res)=>{
+    const locals_1 = {
+        title: "Features - NodeJS Notes",
+        description: "Free NodeJS Notes App",
+    }
+
+    res.render('features', locals_1);
+}
+
+exports.Faq = async(req,res)=>{
+    const locals_2 = {
+        title: "Faq - NodeJS Notes",
+        description: "Free NodeJS Notes App",
+    }
+
+    res.render('faq', locals_2);
+}
+

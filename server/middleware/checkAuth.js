@@ -1,7 +1,8 @@
-exports.isLoggedIn = function(req, res, next) {
+exports.isLoggedIn = function (req, res, next) 
+{
     if(req.user) {
-        next();
+      next();
     } else {
-        return res.status(401).send('Access Denied');
+      return res.status(401).send('Access Denied');
     }
 }

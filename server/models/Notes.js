@@ -10,10 +10,7 @@ const NotesSchema = new Schema({
         type:'String',
         required: true,
     },
-    image: {
-        type: String,
-        required: 'This field is required.'
-    },
+    
     body:{
         type:'String',
         required: true,
