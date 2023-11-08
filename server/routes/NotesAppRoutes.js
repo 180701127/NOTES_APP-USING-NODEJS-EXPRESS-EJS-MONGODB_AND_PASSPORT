@@ -8,6 +8,7 @@ const NotesController = require('../controllers/MainNotesAppController');
 
 router.get('/', NotesController.Homepage);
 router.get('/about', NotesController.about);
-
+router.get('/features', NotesController.Features);
+router.get('/faq', NotesController.Faq);
 
 module.exports = router;

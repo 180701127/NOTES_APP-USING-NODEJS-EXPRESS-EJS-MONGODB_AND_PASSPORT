@@ -7,7 +7,7 @@ const connectDB = require('./server/config/db');
 const session = require('express-session');
 const passport = require('passport');
 const MongoStore = require('connect-mongo');
-//const router = require('./server/routes/auth');
+
 
 
 const app = express();
@@ -50,6 +50,7 @@ app.use(express.static('public'));
 app.use(express_layouts);
 app.set('layout', './layouts/main');
 
+
 app.set('views', './views');
 
 app.set('view engine', 'ejs');
@@ -64,9 +65,11 @@ app.use('/', require('./server/routes/DashboardRoutes'));
 // Handle 404
 
 app.get('*', function(req,res){
-    // res.status(404).send('404 Page Not Found.');
+    //res.status(404).send('404 Page Not Found.');
     res.status(404).render('404');
+    
 });
+
 
 app.listen(port, ()=>{
     console.log(`App listening on port ${port}`);
